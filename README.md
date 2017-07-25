@@ -1,6 +1,6 @@
 # Laravel-AdminLTE-Lang
 
-[![Latest Stable Version](https://poser.pugx.org/chewei05/laravel-adminlte-lang/v/stable)](https://packagist.org/packages/chewei05/laravel-adminlte-lang) 
+[![Latest Stable Version](https://poser.pugx.org/chewei05/laravel-adminlte-lang/v/stable)](https://packagist.org/packages/chewei05/laravel-adminlte-lang)
 [![Total Downloads](https://poser.pugx.org/chewei05/laravel-adminlte-lang/downloads)](https://packagist.org/packages/chewei05/laravel-adminlte-lang)
 [![Latest Unstable Version](https://poser.pugx.org/chewei05/laravel-adminlte-lang/v/unstable)](https://packagist.org/packages/chewei05/laravel-adminlte-lang)
 [![License](https://poser.pugx.org/chewei05/laravel-adminlte-lang/license)](https://packagist.org/packages/chewei05/laravel-adminlte-lang)
