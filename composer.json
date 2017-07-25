@@ -1,0 +1,21 @@
+{
+    "name": "chewei05/laravel-adminlte-lang",
+    "description": "Traditional Chinese (zh-TW) Language for Laravel-AdminLTE with Laravel 5.",
+	"version": "0.0.1",
+    "require": {
+        "laraveldaily/laravel-adminlte": "^1.19.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Chewei Hu",
+            "email": "cheweihu@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "v1.0.0",
+	"autoload": {
+		"psr-4": {
+			"CheweiHu\\LaravelAdminLTELang\\": "src/"
+		}
+	}
+}
