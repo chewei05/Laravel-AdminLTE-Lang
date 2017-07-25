@@ -3,7 +3,7 @@
     "description": "Traditional Chinese (zh-TW) Language for Laravel-AdminLTE with Laravel 5.",
 	"version": "0.0.1",
     "require": {
-        "jeroennoten/Laravel-AdminLTE": "^1.19.0"
+        "jeroennoten/laravel-adminlte": "^v1.19.0"
     },
     "license": "MIT",
     "authors": [
