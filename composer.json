@@ -1,7 +1,7 @@
 {
     "name": "chewei05/laravel-adminlte-lang",
     "description": "Traditional Chinese (zh-TW) Language for Laravel-AdminLTE with Laravel 5.",
-	"version": "0.0.1",
+	"version": "1.0.0",
     "require": {
         "jeroennoten/laravel-adminlte": "^v1.19.0"
     },
